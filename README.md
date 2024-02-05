@@ -1,1 +1,1 @@
-Ini adalah Latihan  Node.js Echara Pascha
+Ini adalah Latihan Node.js Echara Pascha
