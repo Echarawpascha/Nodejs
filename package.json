@@ -1,0 +1,12 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Ini Adalah Latihan Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node kalkulator.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Echarawpascha",
+  "license": "ISC"
+}
